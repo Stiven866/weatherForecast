@@ -31,3 +31,17 @@
     transform: rotate(360deg);
   }
 }
+
+.details{
+  background: #999;
+  height: 85vh;
+  width: clac(100%-40px);
+  overflow: auto;
+  padding: 0px 20px;
+}
+
+@media (max-width:64em){
+  .details{
+    height: 45vh;
+  }
+}

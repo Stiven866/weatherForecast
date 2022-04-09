@@ -8,7 +8,7 @@
     "@material-ui/styles": "^4.0.1",
     "convert-units": "^2.3.4",
     "lodash.topairs": "^4.3.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
